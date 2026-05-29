@@ -55,7 +55,7 @@ main .techs .cards-container .card{
     align-items: center;
     margin-right: 1.8em;
     cursor: pointer;
-    transform: box-shadow 0.25s ease-in-out;
+    transition: box-shadow 0.25s ease-in-out;
 
 
 }
@@ -87,6 +87,11 @@ main figure img{
     width: 400px;
     height: 400px;
     border-radius: 200px;
+
+
+    margin-bottom: 6%;
+    border: 1px #00e0ff solid;
+    transition: box-shadow 0.25s ease-in-out;
 }
 
 
