@@ -53,7 +53,8 @@ main .techs .cards-container .card{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-right: 1.8em;
+    margin-right: 0.9em;
+    margin-bottom: 0.9em;
     cursor: pointer;
     transition: box-shadow 0.25s ease-in-out;
 
